@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    template = string.Template("Hi, $name! You look adjective today! You're doing great!")
+    name = input()
+    adjective = input()
+    compliment = template.format(name=name, adjective)
+    print(compliment)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15342#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 05 Nov 2021 21:15:19 UTC
+record: -1

@@ -139,18 +139,6 @@ files:
     </body>
     </html>
   learner_created: true
-- name: Page_1/Prestigious_AI_meeting_takes_steps_to_improve_ethics_of_research.txt
-  visible: true
-  learner_created: true
-- name: Page_2/What_the_data_say_about_border_closures_and_COVID_spread.txt
-  visible: true
-  learner_created: true
-- name: Page_2/The_science_events_to_watch_for_in_2021.txt
-  visible: true
-  learner_created: true
-- name: Page_2/Horizon_2020_by_the_numbers_how_€60_billion_was_divided_up_among_Europe’s_scientists.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/145/stages/785/implement#comment
 status: Solved
 feedback:
